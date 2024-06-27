@@ -21,6 +21,6 @@ This Food Delivery Chatbot leverages the power of NLP to offer an interactive an
 - **Dialogflow**: For intent and entity recognition.
 
 ## GIF Demonstration
-![Food Delivery Chatbot in Action](images/food_delivery_chatbot_demo.gif)
+![Food Delivery Chatbot in Action](Readme_Files/Video.gif)
 
 Thank you for checking out the Food Delivery Chatbot project! Happy coding!
