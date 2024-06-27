@@ -20,7 +20,11 @@ This Food Delivery Chatbot leverages the power of NLP to offer an interactive an
 - **MySQL**: Database management for orders.
 - **Dialogflow**: For intent and entity recognition.
 
-## GIF Demonstration
-![Food Delivery Chatbot in Action](Readme_Files/Video.gif)
+## Video Demonstration
+https://github.com/atharvahatekar/Food-Delivery-NLP-Chatbot/assets/63251306/ef9f7d2a-0765-4c90-a809-590e1e7263c1
 
 Thank you for checking out the Food Delivery Chatbot project! Happy coding!
+
+
+
+
